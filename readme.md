@@ -1,8 +1,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript<h1 align="center"> DevLinks </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -28,6 +27,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 ## 🚀 Tecnologias
 
+- HTML e CSS
+- JavaScript
 - Git e Github
 - Figma
 
@@ -49,4 +50,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by luiz_ferrl :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
