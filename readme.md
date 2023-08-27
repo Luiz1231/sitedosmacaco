@@ -1,4 +1,3 @@
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <h1 align="center"> DevLinks </h1>
@@ -22,7 +21,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto ap dos macaco" src=".github/nada.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/nada.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -50,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by luiz_ferrl :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ por luiz_ferrl :wave:
